@@ -1,10 +1,6 @@
 # Studyoung
 
-[1. Team](#team)  
-[2. Result](#result)  
-[3. Commit Convention](#commit-convention)  
-
-## Team
+## 👥 Team
 
 ### Work Pages
 [Google Docs](https://docs.google.com/document/d/1MFORXQ5TRO2KhZZnXdwOpIB8Bm0mYklSr0E40iUTmOI/edit?tab=t.u8u8bbapyy73)  
@@ -32,19 +28,16 @@
   </tbody>
 </table>  
 
-### Tech Stack
+## Tech
 
-#### Frontend
+### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### Backend
+### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
-## Result
 
 ### To Run
 `Python 3.12` version에서 테스트되었습니다.  
@@ -68,3 +61,5 @@ python3 manage.py migrate
 # 서버 실행
 python3 manage.py runserver
 ```
+
+## Beta
