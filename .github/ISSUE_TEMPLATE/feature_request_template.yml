@@ -8,7 +8,7 @@ body:
     attributes:
       label: 📄 설명
       description: "새로운 기능에 대해 설명해주세요."
-      placeholder: "옆에 [BE or FE] 라벨도 꼭 달아주세요!"
+      placeholder: "[BE or FE] 라벨도 꼭 달아주세요!"
     validations:
       required: true
   - type: textarea
