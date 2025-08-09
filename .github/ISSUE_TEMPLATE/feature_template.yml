@@ -1,7 +1,7 @@
-name: "✨ Feature"
-description: "새로운 기능 추가"
+name: "✨ Feature Request"
+description: "새로운 기능 제안"
 title: "[FEAT] "
-labels: ["enhancement"]
+labels: ["feat"]
 body:
   - type: textarea
     attributes:

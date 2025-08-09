@@ -1,0 +1,20 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: 🐞 Bug Report
+    description: 버그 제보
+    title: "[FIX] "
+    labels: bug
+    assignees: ''
+    template: bug_template.yml
+  - name: ✨ Feature Request
+    description: 새로운 기능 제안
+    title: "[FEAT] "
+    labels: feat
+    assignees: ''
+    template: feature_template.yml
+  - name: ✉️ Other Issues
+    description: 그 외 모든 작업
+    title: "[ENHANCE] "
+    labels: enhancement
+    assignees: ""
+    template: request_template.yml

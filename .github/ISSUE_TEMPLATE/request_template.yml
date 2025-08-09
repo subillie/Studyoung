@@ -1,6 +1,6 @@
-name: "✉️ Request"
+name: "✉️ Other Issues"
 description: "그 외 모든 작업"
-title: "[CHORE] "
+title: "[ENHANCE] "
 labels: ["enhancement"]
 body:
   - type: textarea

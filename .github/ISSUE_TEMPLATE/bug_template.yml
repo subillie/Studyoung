@@ -1,5 +1,5 @@
-name: "🐞 Bug"
-description: "에러 해결"
+name: "🐞 Bug Report"
+description: "버그 제보"
 title: "[FIX] "
 labels: ["bug"]
 body:
