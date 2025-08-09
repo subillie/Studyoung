@@ -1,23 +1,24 @@
 name: "✨ Feature Request"
 description: "새로운 기능 제안"
 title: "[FEAT] "
-labels: ["feat"]
+labels:
+  - feat
 body:
   - type: textarea
     attributes:
       label: 📄 설명
-      description: 어떤 기능을 추가할지 설명해주세요.
-      placeholder: 옆에 [BE or FE] 라벨도 꼭 달아주세요!
+      description: "새로운 기능에 대해 설명해주세요."
+      placeholder: "옆에 [BE or FE] 라벨도 꼭 달아주세요!"
     validations:
       required: true
   - type: textarea
     attributes:
       label: ✅ 작업할 내용
-      description: 할 일을 체크박스 형태로 작성해주세요.
-      placeholder: -[] (...)
+      description: "할 일을 체크박스 형태로 작성해주세요."
+      placeholder: "-[] (...)"
     validations:
       required: true
   - type: textarea
     attributes:
       label: 💡 참고 자료
-      description: 참고 자료가 있다면 작성해 주세요.
+      description: "참고 자료가 있다면 작성해 주세요."
