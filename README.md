@@ -2,6 +2,8 @@
 
 ## 👥 Team
 
+팀명: **`Hey해지지마영`**
+
 ### Work Pages
 [Google Docs](https://docs.google.com/document/d/1MFORXQ5TRO2KhZZnXdwOpIB8Bm0mYklSr0E40iUTmOI/edit?tab=t.u8u8bbapyy73)  
 [Figma (Wire Frame)](https://www.figma.com/design/GrrarW92keO7xxN0aOnlwV/Hey%ED%95%B4%EC%A7%80%EC%A7%80%EB%A7%88%EC%98%81?t=UfjBYhAdrvaYJIiM-0)  
